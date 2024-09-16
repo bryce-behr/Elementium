@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a6f3d6ad88dec124f878530fb76b3136
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _combatClip: {fileID: 8300000, guid: 1066f80d61d5eed448d3467d4eee2eb9, type: 3}
+  - _peacefulClip: {fileID: 8300000, guid: 0a9379f7ceb8b124a9947e7c0d0ddd23, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

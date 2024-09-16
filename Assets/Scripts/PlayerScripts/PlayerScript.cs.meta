@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4814beef6fa16014b887075f40b0605f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _sceneManager: {instanceID: 0}
+  - _UIPrefab: {fileID: 5159697690843858463, guid: 51ad36c10e9fa884a9f761355c711b68, type: 3}
+  - _playerLightningPrefab: {instanceID: 0}
+  - _playerFirePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

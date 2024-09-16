@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: dc3b82e69c0622549b313f436bed6dc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _playerElectricAttack: {fileID: 8300000, guid: 8c4a8a811e32a7349b9c598f5b28aac3, type: 3}
+  - _healSpell: {fileID: 8300000, guid: 022ea2586a6d5a7478e738ada75542f1, type: 3}
+  - _fireAttack: {fileID: 8300000, guid: a6caf136a4345c947a20beb73550865e, type: 3}
+  - _dash: {fileID: 8300000, guid: 312ed365df51b5d4ba0f7b2945ba5739, type: 3}
+  - _playerFailure: {fileID: 8300000, guid: 52ad982bb0b33384c82386c0b17d4de5, type: 3}
+  - _playerVictory: {fileID: 8300000, guid: 11f0e4fdba90bb246b5bd5129bed0302, type: 3}
+  - _swordClash: {fileID: 8300000, guid: 550ec8d62de69af429a18393ab9a6a30, type: 3}
+  - _tornado: {fileID: 8300000, guid: b34fcd5a966a76042bd85d51e5cf883b, type: 3}
+  - _fireSlam: {fileID: 8300000, guid: 33b7f50eb440c0c4aa2714f6ae08b114, type: 3}
+  - _windWoosh: {fileID: 8300000, guid: 3fd40c340c13d9941b5ad117c54f2661, type: 3}
+  - _harp: {fileID: 8300000, guid: 2451f1f157d1da544ac5614fa8ad006c, type: 3}
+  - _windSlam: {fileID: 8300000, guid: 15244e88f97a4784588a06e1f267dcb4, type: 3}
+  - _windSlamDrop: {fileID: 8300000, guid: 18f39bd58effb4046b215a7e346512e5, type: 3}
+  - _windLiftOff: {fileID: 8300000, guid: 1c460a20c7942c34aaaccbd716f4cbcb, type: 3}
+  - _takeDamage: {fileID: 8300000, guid: 280a8913b0c68b34b9b35bd33fc9a6db, type: 3}
+  - _enemySeesPlayer: {fileID: 8300000, guid: 91f85386bb1f44ef5bbe7cd0d6e4d9a7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

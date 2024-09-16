@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6149950115268240947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6149950115268240951}
+  - component: {fileID: 6149950115268240950}
+  - component: {fileID: 6149950115268240948}
+  m_Layer: 0
+  m_Name: SceneManagerPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6149950115268240951
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6149950115268240947}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.2809887, y: -14.949747, z: -331.66687}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6149950115268240950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6149950115268240947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f3d6ad88dec124f878530fb76b3136, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _combatClip: {fileID: 8300000, guid: 1066f80d61d5eed448d3467d4eee2eb9, type: 3}
+  _peacefulClip: {fileID: 8300000, guid: 0a9379f7ceb8b124a9947e7c0d0ddd23, type: 3}
+--- !u!114 &6149950115268240948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6149950115268240947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc3b82e69c0622549b313f436bed6dc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _swordClash: {fileID: 8300000, guid: 550ec8d62de69af429a18393ab9a6a30, type: 3}
+  _fireAttack: {fileID: 0}
+  _playerElectricAttack: {fileID: 0}
+  _healSpell: {fileID: 0}
+  _dash: {fileID: 0}
+  _takeDamage: {fileID: 0}
+  _fireSlam: {fileID: 0}
+  _playerFailure: {fileID: 0}
+  _playerVictory: {fileID: 0}
+  _enemySeesPlayer: {fileID: 8300000, guid: 91f85386bb1f44ef5bbe7cd0d6e4d9a7, type: 3}

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BasicAttack
+  - DashAttack
+  - ChargeAttack
+  - ExampleEnemyAttack
+  - Enemy
+  - LightningAOEAttack
+  - FireBossSlam
+  - FireBossFlamethrower
+  - FireBossSpin
+  - Firepit
+  - LightningBossShell
+  - LightningBeamAttack
+  - PlayerLightning
+  - PlayerFire
+  - FinalTounge
+  - FinalBeam
+  - BasicEnemySword
+  - WindSlam
+  - WindBoomerang
+  - WindSpear
+  - WindBigTornado
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Walls
+  - Water
+  - UI
+  - Sword
+  - EnemyAttack
+  - PlayerFire
+  - Player
+  - FinalBoss
+  - FBWall
+  - DoorTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BasicEnemy
+    uniqueID: 3503004377
+    locked: 0
+  - name: FireBoss
+    uniqueID: 2216428863
+    locked: 0
+  - name: LightningBoss
+    uniqueID: 3876549995
+    locked: 0
+  - name: WindBoss
+    uniqueID: 178549323
+    locked: 0
+  - name: FinalBoss
+    uniqueID: 3601611267
+    locked: 0
+  - name: FireBoss
+    uniqueID: 2216428863
+    locked: 0
+  - name: Player
+    uniqueID: 752651333
+    locked: 0
+  - name: Walls
+    uniqueID: 28501505
+    locked: 0
+  - name: UI
+    uniqueID: 2543781787
+    locked: 0

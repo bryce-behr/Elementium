@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: d9f28604511daf54ebf5571887600979
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6151774815680981656
+    second: Shell
+  - first:
+      213: 1040054768569739330
+    second: Neck
+  - first:
+      213: 5401389077465932453
+    second: FaceAngry
+  - first:
+      213: 8522272848516036733
+    second: FaceDizzy
+  - first:
+      213: -6274460211325014746
+    second: FaceTired
+  - first:
+      213: -9047931926826139684
+    second: LightningEffect
+  - first:
+      213: -1622266296559367917
+    second: BottomJaw
+  - first:
+      213: 7220768603342190131
+    second: CrackedShell
+  - first:
+      213: 5173217186282383912
+    second: Spike
+  - first:
+      213: 1369135137916435250
+    second: SpikeEffect
+  - first:
+      213: 6515422909394025307
+    second: Arrow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shell
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 349
+        width: 464
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aebd2f99e7f5550800000000000000
+      internalID: 6151774815680981656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neck
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 726
+        width: 243
+        height: 111
+      alignment: 9
+      pivot: {x: 0.1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ec833d440f6e00800000000000000
+      internalID: 1040054768569739330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceAngry
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 713
+        width: 249
+        height: 181
+      alignment: 9
+      pivot: {x: 0.05044053, y: 0.1858642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a228088fb695fa40800000000000000
+      internalID: 5401389077465932453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceDizzy
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 718
+        width: 249
+        height: 180
+      alignment: 9
+      pivot: {x: 0.05044053, y: 0.1858642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7831c6b002354670800000000000000
+      internalID: 8522272848516036733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceTired
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 660
+        width: 249
+        height: 181
+      alignment: 9
+      pivot: {x: 0.05044053, y: 0.1858642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d66aa6ea3ace8a0800000000000000
+      internalID: -6274460211325014746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningEffect
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 85
+        width: 218
+        height: 565
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfbc9db9d94f6280800000000000000
+      internalID: -9047931926826139684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomJaw
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 414
+        width: 235
+        height: 175
+      alignment: 9
+      pivot: {x: 0.06560994, y: 0.807666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198d7ef56d8c79e0800000000000000
+      internalID: -1622266296559367917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrackedShell
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 75
+        width: 464
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336318799c2553460800000000000000
+      internalID: 7220768603342190131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spike
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 63
+        width: 118
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aae4e3f95fac740800000000000000
+      internalID: 5173217186282383912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeEffect
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 71
+        width: 131
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bb3096725200310800000000000000
+      internalID: 1369135137916435250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 68
+        width: 209
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7fdbad9e6b6a50800000000000000
+      internalID: 6515422909394025307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
